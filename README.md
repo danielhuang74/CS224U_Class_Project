@@ -9,6 +9,6 @@ Included is:
 
 Needed libraries:
 
-NLTK
-SpaCy
-Numpy, Pandas
+- NLTK
+- SpaCy
+- Numpy, Pandas
