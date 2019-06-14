@@ -5,7 +5,7 @@ Included is:
 - similarity comparison
 - baseline algorithm (window, regex)
 - dependency parsing
-- distant supervision
+~~- distant supervision~~
 
 Needed libraries:
 
