@@ -2,9 +2,9 @@
 NLU Project with Lazard
 
 Included is:
-- similarity comparison
-- baseline algorithm (window, regex)
-- dependency parsing
+- similarity comparison in SIMILARITY.ipynb
+- baseline algorithm (window, regex) in INFORMATION EXTRACTION.ipynb
+- dependency parsing in "Daniel Models/Dependency tree.ipynb" with labeled dataset in "Daniel Models/processedData.csv"
 - ~~distant supervision~~
 
 Needed libraries:
